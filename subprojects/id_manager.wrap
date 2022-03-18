@@ -1,0 +1,7 @@
+[wrap-git]
+url=git@github.com:alica-labs/alica-essentials.git
+revision=head
+checkout=main
+
+[provide]
+dependency_names = id_manager

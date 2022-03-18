@@ -1,0 +1,7 @@
+[wrap-git]
+url=git@github.com:alica-labs/alica-common-config.git
+revision=head
+checkout=main
+
+[provide]
+dependency_names = alica_common_config
