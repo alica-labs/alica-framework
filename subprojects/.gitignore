@@ -1,0 +1,4 @@
+# ignore cloned subprojects
+alica_solver_interface
+alica_common_config
+id_manager
