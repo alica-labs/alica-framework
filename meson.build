@@ -5,6 +5,6 @@ project('alica_framework', 'cpp',
 
 project_description = 'The ALICA Framework.'
 
-subproject('alica_common_config')
-subproject('alica_solver_interface')
+subproject('alica-common-config')
+subproject('alica-solver-interface')
 subproject('id_manager')
