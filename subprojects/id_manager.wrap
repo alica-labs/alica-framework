@@ -1,5 +1,5 @@
 [wrap-git]
-url=git@github.com:alica-labs/alica-essentials.git
+url=git@github.com:alica-labs/id_manager.git
 revision=head
 checkout=main
 
