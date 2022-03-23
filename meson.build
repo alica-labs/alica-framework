@@ -8,4 +8,3 @@ project_description = 'The ALICA Framework.'
 
 subproject('alica_interfaces')
 subproject('id_manager')
-subproject('delete_me')
